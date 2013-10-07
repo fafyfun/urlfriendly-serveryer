@@ -1,0 +1,17 @@
+.big-green {
+    background: none repeat scroll 0 0 #CCCCCC;
+    border: 1px solid #999999;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 2px 3px #333333;
+    padding: 5px;
+
+}
+
+.big-green div {
+
+    background: url("type_4.gif") repeat scroll right top #0069B4;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 5px 5px #014A7E inset;
+    overflow: hidden;
+    text-indent: 99999px;
+}
